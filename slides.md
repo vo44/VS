@@ -36,7 +36,7 @@ BUT, there is also Cooperation.
 Herbert A. Simon 
 
 ---
-<!-- .slide: data-background="./Pic8.jpg" -->
+
 ## HIERARCHIES IN SOCIAL SPECIES
 > * Super Normal
 > * If we understand how they are formed it can help us answer deep questions about the brain adaptation to social side. 
@@ -58,14 +58,14 @@ Herbert A. Simon
 Structure of Human Hierarchies is usually multidimensional. 
 
 ---
-<!-- .slide: data-background="./Pic9.jpg" -->
+
 ## GROUP LIVING ANIMALS
 
 > * Hierarchies form quickly and spontaneously
 > * Usually through assymetrical displays of dominance
 
 ---
-<!-- .slide: data-background="./Pic9.jpg" -->
+
 ## WHAT ARE THE CLUES?
 
 > * Size 
