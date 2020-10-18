@@ -36,6 +36,7 @@ BUT, there is also Cooperation.
 Herbert A. Simon 
 
 ---
+<!-- .slide: data-background="./Pic8.jpg" -->
 ## HIERARCHIES IN SOCIAL SPECIES
 > * Super Normal
 > * If we understand how they are formed it can help us answer deep questions about the brain adaptation to social side. 
