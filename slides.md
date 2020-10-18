@@ -65,6 +65,7 @@ Structure of Human Hierarchies is usually multidimensional.
 > * Usually through assymetrical displays of dominance
 
 ---
+<!-- .slide: data-background="./Pic9.jpg" -->
 ## WHAT ARE THE CLUES?
 
 > * Size 
