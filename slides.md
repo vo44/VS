@@ -43,6 +43,7 @@ Herbert A. Simon
 > * It's not only the result of human cognition, but almost every specie tends to organise in a hierarchy.
 
 ---
+
 ## PREVALENCE OF HIERARCHIES
 > * There is a possible evolutionary origin. 
 > * Is there really an evolutionary developed mechanism that can be found very early in life? 
@@ -57,6 +58,7 @@ Herbert A. Simon
 Structure of Human Hierarchies is usually multidimensional. 
 
 ---
+<!-- .slide: data-background="./Pic9.jpg" -->
 ## GROUP LIVING ANIMALS
 
 > * Hierarchies form quickly and spontaneously
@@ -72,9 +74,9 @@ Structure of Human Hierarchies is usually multidimensional.
 ---
 ## NOW WE KNOW
 
-> * Hierarchies is a defining feaature of absolute majority of organisations. 
-They stand on Power and Status. 
-It naturally emerges from interactions. 
+> * Hierarchies is a defining feature of absolute majority of organisations. 
+* They stand on Power and Status. 
+* It naturally emerges from interactions. 
 It is an explicit or implicit rank order of individuals or groups with respect to valued dimensions. 
 
 ---
