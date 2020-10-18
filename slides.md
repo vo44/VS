@@ -43,12 +43,13 @@ Herbert A. Simon
 > * It's not only the result of human cognition, but almost every specie tends to organise in a hierarchy.
 
 ---
-<!-- .slide: data-background="./Pic8.jpg" -->
+<!-- .slide: data-background="./Pic9.jpg" -->
 ## PREVALENCE OF HIERARCHIES
 > * There is a possible evolutionary origin. 
 > * Is there really an evolutionary developed mechanism that can be found very early in life? 
 
 ---
+<!-- .slide: data-background="./Pic10.jpg" -->
 ## WHAT ARE THE KEY CHARACHTERISTICS? 
 
 > * Rank Order
