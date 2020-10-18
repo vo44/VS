@@ -34,3 +34,12 @@ BUT, there is also Cooperation.
 <!-- .slide: data-background="./Pic7.jpg" -->
 > “It is a commonplace observation that nature loves hierarchies. Most of the complex systems that occur in nature find their place in one or more of four intertwined hierarchic sequences.” 
 Herbert A. Simon 
+
+---
+# HIERARCHIES IN SOCIAL SPECIES
+> * Super Normal
+> * If we understand how they are formed it can help us answer deep questions about the brain adaptation to social side. 
+> * It's not only the result of human cognition 
+
+---
+# 
