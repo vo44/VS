@@ -1,14 +1,36 @@
+<!-- .slide: data-background="./Pic3.jpg" -->
 # Hierarchies
 
-
-* Point 1
-* Point 2
+* Are they a mechanism of Natural Order? 
 
 ---
 
-## Second slide
+<!-- .slide: data-background="./Pic4.jpg" -->
+## MEANING OF HIERARCHIES
 
-> X legio
+> * Order and Subbordination
+> * Taxonomy 
+> * Superiority in Normative Factor
 
+---
+<!-- .slide: data-background="./Pic5.jpg" -->
+## FROM NATURAL SCIENCES
 
-Note: speaker notes FTW!
+> * Genome Level
+> * Cerebral
+> * Social 
+> * Living Systems
+> * Humans
+
+---
+<!-- .slide: data-background="./Pic6.jpg" -->
+## OUR CLOSEST FRIEND IS NOT ALWAYS LIKE THAT
+
+> Competition between and within species always rewarded the most efficient one's with survival and reproduction. 
+Leading to Alpha's rise to the top.
+BUT, there is also Cooperation. 
+
+---
+<!-- .slide: data-background="./Pic7.jpg" -->
+> “It is a commonplace observation that nature loves hierarchies. Most of the complex systems that occur in nature find their place in one or more of four intertwined hierarchic sequences.” 
+Herbert A. Simon 
