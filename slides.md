@@ -14,7 +14,7 @@
 
 ---
 <!-- .slide: data-background="./Pic5.jpg" -->
-## FROM NATURAL SCIENCES
+## FROM GENOME TO ECOSYSTEMS
 
 > * Genome Level
 > * Cerebral
@@ -36,6 +36,12 @@ Herbert A. Simon
 > * It's not only the result of human cognition, but almost every specie tends to organise in a hierarchy.
 
 ---
+<!-- .slide: data-background="./Pic9.jpg" -->
+## GROUP LIVING ANIMALS
+
+> * Hierarchies form quickly and spontaneously
+> * Usually through assymetrical displays of dominance
+---
 
 
 ## PREVALENCE OF HIERARCHIES
@@ -52,22 +58,9 @@ Herbert A. Simon
 
 Structure of Human Hierarchies is usually multidimensional. 
 
----
-<!-- .slide: data-background="./Pic9.jpg" -->
-## GROUP LIVING ANIMALS
-
-> * Hierarchies form quickly and spontaneously
-> * Usually through assymetrical displays of dominance
 
 ---
-<!-- .slide: data-background="./Pic10.jpg" -->
-## WHAT ARE THE CLUES?
-
-> * Size 
-> * Behaviour
-> * Hormone Levels
-
----
+<!-- .slide: data-background="./Pic11.jpg" -->
 ## NOW WE KNOW
 
 > * Hierarchies is a defining feature of absolute majority of organisations. 
@@ -76,6 +69,15 @@ Structure of Human Hierarchies is usually multidimensional.
 It is an explicit or implicit rank order of individuals or groups with respect to valued dimensions. 
 
 ---
+<!-- .slide: data-background="./Pic10.jpg" -->
+## WHAT ARE THE CLUES?
+
+> * Size 
+> * Behaviour
+> * Hormone Levels
+---
+
+<!-- .slide: data-background="./Pic12.jpg" -->
 ## BUT WHY IT PREVAILS? 
 
 > * Coordination 
