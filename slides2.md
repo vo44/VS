@@ -14,7 +14,7 @@
 
 ---
 <!-- .slide: data-background="./Pic5.jpg" -->
-## FROM NATURAL SCIENCES
+## FROM GENOME TO ECOSYSTEMS
 
 > * Genome Level
 > * Cerebral
@@ -28,6 +28,7 @@
 > “It is a commonplace observation that nature loves hierarchies. Most of the complex systems that occur in nature find their place in one or more of four intertwined hierarchic sequences.” 
 Herbert A. Simon 
 
+
 ---
 <!-- .slide: data-background="./Pic8.jpg" -->
 ## HIERARCHIES IN SOCIAL SPECIES
@@ -36,12 +37,17 @@ Herbert A. Simon
 > * It's not only the result of human cognition, but almost every specie tends to organise in a hierarchy.
 
 ---
+<!-- .slide: data-background="./Pic9.jpg" -->
+## GROUP LIVING ANIMALS
 
+> * Hierarchies form quickly and spontaneously
+> * Usually through assymetrical displays of dominance
+
+---
 
 ## PREVALENCE OF HIERARCHIES
 > * There is a possible evolutionary origin. 
 > * Is there really an evolutionary developed mechanism that can be found very early in life? 
-
 ---
 
 ## WHAT ARE THE KEY CHARACHTERISTICS? 
@@ -53,11 +59,12 @@ Herbert A. Simon
 Structure of Human Hierarchies is usually multidimensional. 
 
 ---
-<!-- .slide: data-background="./Pic9.jpg" -->
-## GROUP LIVING ANIMALS
+## NOW WE KNOW
 
-> * Hierarchies form quickly and spontaneously
-> * Usually through assymetrical displays of dominance
+> * Hierarchies is a defining feature of absolute majority of organisations. 
+* They stand on Power and Status. 
+* It naturally emerges from interactions. 
+It is an explicit or implicit rank order of individuals or groups with respect to valued dimensions. 
 
 ---
 <!-- .slide: data-background="./Pic10.jpg" -->
@@ -68,14 +75,6 @@ Structure of Human Hierarchies is usually multidimensional.
 > * Hormone Levels
 
 ---
-## NOW WE KNOW
-
-> * Hierarchies is a defining feature of absolute majority of organisations. 
-* They stand on Power and Status. 
-* It naturally emerges from interactions. 
-It is an explicit or implicit rank order of individuals or groups with respect to valued dimensions. 
-
----
 ## BUT WHY IT PREVAILS? 
 
 > * Coordination 
@@ -84,29 +83,13 @@ It is an explicit or implicit rank order of individuals or groups with respect t
 
 ---
 <!-- .slide: data-background="./Pic6.jpg" -->
-## CHIMPS
+## OUR CLOSEST FRIEND IS NOT ALWAYS LIKE THAT
 
-Dominance Hierarchy 
-> * Male Hierarchies
-> * Females are Oppressed
-* Superiority in Size, Power and Agression
+> Competition between and within species always rewarded the most efficient one's with survival and reproduction. 
+Leading to Alpha's rise to the top.
+BUT, there is also Cooperation. 
 
----
-## EGALITARIAN 
-> Cooperation to overthrow an overly aggressive male
- It is a type of behaviour which flattens the hierarchy. And there is no particular dominance factor or order. 
-
----
-
-## HUMANS
-> Hunter Gatherers Societies
-
->Has it all changed with Agriculture and Property? 
 ---
 ## FINALLY 
-* Absolute majority of nature organized in a hierarchy
-* Hirarchies of dominance in social species, including humans
-> They are not necessary!
-* Is it a product of culture or any other factors? 
 
- What do you think?  
+> What do you think?  
