@@ -40,7 +40,7 @@ Herbert A. Simon
 ## GROUP LIVING ANIMALS
 
 > * Hierarchies form quickly and spontaneously
-> * Usually through assymetrical displays of dominance
+> * Usually through asymmetrical displays of dominance
 ---
 
 
@@ -91,7 +91,7 @@ It is an explicit or implicit rank order of individuals or groups with respect t
 Dominance Hierarchy 
 > * Male Hierarchies
 > * Females are Oppressed
-* Superiority in Size, Power and Agression
+* Superiority in Size, Power and Aggression
 
 ---
 ## EGALITARIAN 
@@ -107,7 +107,7 @@ Dominance Hierarchy
 ---
 ## FINALLY 
 * Absolute majority of nature organized in a hierarchy
-* Hirarchies of dominance in social species, including humans
+* Hierarchies of dominance in social species, including humans
 > They are not necessary!
 * Is it a product of culture or any other factors? 
 
